@@ -28,9 +28,9 @@ Minha ideia estava engatinhando mas seria fundar um portal de ciência, inicialm
 
 ### Portal Cientista que Educa (título provisório)
 
-Esse portal seria composto de diversas seções com objetivos distintos, mas sempre de educar em ciência. Quais seções que eu imaginei:
+Esse portal seria composto de diversas seções com objetivos distintos, mas sempre de educar em ciência. Especificamente, tinha pensado em:
 
-1. Uma das partes que pensei seria convidar os autores de artigos que estão sendo produzidos a escrever (ou filmar) uma pequena divulgação sobre seus trabalhos, em linguagem acessível e para público leigo. Cada autor pode chamar atenção para o que acha realmente interessante e novidade no seu trabalho. Dessa forma teríamos uma reunião de divulgação do que produzimos aqui, sempre linkados para os artigos orginais.
+1. Para uma das seções, pensei em convidar os autores de artigos que estão sendo produzidos a escrever (ou filmar) uma pequena divulgação sobre seus trabalhos, em linguagem acessível e para público leigo. Cada autor pode chamar atenção para o que acha realmente interessante e novidade no seu trabalho. Dessa forma teríamos uma reunião de divulgação do que produzimos aqui, sempre linkados para os artigos orginais sem ter que esperar alguma mídia se interessar pelo trabalho. Estaríamos assim ditando o que é e não interessante no que fazemos, independente do que a TV ou rádio acham que atrai espectadores.
 
 2. Uma seção sobre o trabalho e dia a dia do cientista (biólogo). Nessa seção convidando gente para escrever sobre por exemplo 'que passos seguir para perseguir a carreira' (sabemos que muito pouca gente sabe porque fazemos pós-graduacão, por exemplo... o que é o pós-doutorado... que curso de graduação fazemos...), ou ainda o que fazemos no nosso dia-a-dia, motivações pessoais de cada um e assim por diante.
 
@@ -38,8 +38,9 @@ Esse portal seria composto de diversas seções com objetivos distintos, mas sem
 
 4. Uma seção com divulgação de descobertas mundiais?
 
-4. Congregar outras coisas que vocês achem interessantes.
+5. Congregar outras coisas que vocês achem interessantes.
 
+Depois do desafio do Gepeto eu fiquei com mais certeza ainda que individualmente eu nunca implementaria nada. Quem sabe a gente não trabalha junto para melhorar (muito) essa ideia e mudar a cara da divulgação do que estamos fazendo? Espero as sugestões de vocês.
 
 
 
