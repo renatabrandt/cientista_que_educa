@@ -18,7 +18,7 @@ Parece ser unanimidade que os responsáveis pelo desinteresse em ciência são t
 
 ## De quem é a responsabilidade?
 
-Para mim, parte da responsabilidade é nossa! Recebemos um grande benefício da sociedade que permitiu a nossa formação como biólogos (e portanto cientistas), e o que fazemos para mudar o quadro de desinteresse que tantos reclamam? Pensando sobre isso eu cheguei a conclusão que não estava mesmo fazendo nada e que não podia depender de iniciativas institucionais se eu quisesse que esse quadro algum dia se revertesse... 
+Para mim, grande parte da responsabilidade é nossa! Recebemos um grande benefício da sociedade que permitiu a nossa formação como biólogos (e portanto cientistas), e o que fazemos para mudar o quadro de desinteresse que tantos reclamam? Pensando sobre isso eu cheguei a conclusão que não estava mesmo fazendo nada e que não podia depender de iniciativas institucionais se eu quisesse que esse quadro algum dia se revertesse... 
 
 Até mesmo se pensarmos de maneira egoísta (sem levar em conta a responsabilidade de devolver o que nos foi oferecido, e que pode gerar discussão), ser mais valorizada na sociedade implica nas pessoas saberem o que 'EU' faço.
 
